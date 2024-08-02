@@ -1,11 +1,11 @@
 # Dyslexia | aixelsyD
-<img style="align:center;border-radius:13px;max-width:600px;" src="tesseract.jpeg"/>
 is software that re-orients lettering for people that see letters different, so they can read.
 
 This software uses Tesseract so you will need to install this locally on your server and/or local machine.
 
 Find out more about Tessaract here -> https://tesseract-ocr.github.io/tessapi/5.x/a02438.html#aca4e9a0d9cf388510168d9b58864d1e5
 
+<img style="align:center;border-radius:13px;max-width:600px;" src="tesseract.jpeg"/>
 
 Python 3.11 in use, for more into visit -> https://python.org
 
