@@ -1,5 +1,5 @@
 # Dyslexia | aixelsyD
-<img style="align:center;border-radius:13px;" src="tesseract.jpeg"/>
+<img style="align:center;border-radius:13px;max-width:600px;" src="tesseract.jpeg"/>
 is software that re-orients lettering for people that see letters different, so they can read.
 
 This software uses Tesseract so you will need to install this locally on your server and/or local machine.
