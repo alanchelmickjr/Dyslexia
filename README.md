@@ -3,7 +3,7 @@ is software that re-orients lettering for people that see letters different, so 
 
 This software uses Tesseract so you will need to install this locally on your server and/or local machine.
 
-Find out more about Tessaract here -> https://tesseract-ocr.github.io/tessapi/5.x/a02438.html#aca4e9a0d9cf388510168d9b58864d1e5
+Find out more about Tessaract here -> <a href="https://tesseract-ocr.github.io/tessapi/5.x/a02438.html#aca4e9a0d9cf388510168d9b58864d1e5">Tesseract GitHub</a>
 
 <img style="align:center;border-radius:13px;max-width:600px;width:500px;" src="tesseract.jpeg"/>
 
