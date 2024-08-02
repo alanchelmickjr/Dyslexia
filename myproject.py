@@ -68,6 +68,7 @@ def process_image():
         print(f"Current user name: {current_user_name}")
 
         # Run Tesseract command directly and capture output
+        # here is where the magic happens and we find out what the image looks like to the dyslexic person
         try:
             custom_config = r'--psm 10 -c tessedit_char_whitelist=abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789'
             command = [pytesseract.pytesseract.tesseract_cmd, temp_image_path, 'stdout', '--psm', '10', '-c', 'tessedit_char_whitelist=abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789', 'osd']
@@ -84,6 +85,7 @@ def process_image():
             print(f"Temporary image file deleted: {temp_image_path}")
 
         # Return the OSD data as JSON
+        # this will allow the front end to display the text in a manner that can be read normally
         return jsonify(osd)
     except Exception as e:
         return jsonify({"error": str(e)}), 500
