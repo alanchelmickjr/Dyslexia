@@ -10,7 +10,8 @@ Python 3.11 in use, for more into visit -> https://python.org
 
 There is a React front end component that pairs with this that will be released under this same repo, stay tuned.
 
-# I Never share my code as I started out my tech career doing eavesdropping and re-routing communications and this taught me that everything I share is a risk but now... as a student, lover and purveyor of python and ai spells, I wish to share something so you know who I am.  Therefore this is my opensource love project. :D  Feel free to join in.
+# I Never share my code 
+...as I started out my tech career doing eavesdropping and re-routing communications and this taught me that everything I share is a risk but now... as a student, lover and purveyor of python and ai spells, I wish to share something so you know who I am.  Therefore this is my opensource love project. :D  Feel free to join in.
 
 
 This software is ***UNDER DEVELOPMENT ALPHA SOFTWARE*** and is not ready for consumption yet, just birthed, BETA announcments asap at LIVE TEST SITE https://api.radixical.com  Expect that there is a lot of debugging code and Psuedo code included and is not release ready yet. 🚀
