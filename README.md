@@ -10,6 +10,6 @@ Python 3.11 in use, for more into visit -> https://python.org
 
 There is a React front end component that pairs with this that will be released under this same repo, stay tuned.
 
-This software is ***UNDER DEVELOPMENT ALPHA SOFTWARE*** and is not ready for consumption yet, just birthed, BETA announcments asap at LIVE TEST SITE https://api.radixical.com
+This software is ***UNDER DEVELOPMENT ALPHA SOFTWARE*** and is not ready for consumption yet, just birthed, BETA announcments asap at LIVE TEST SITE https://api.radixical.com  Expect that there is a lot of debugging code and Psuedo code included and is not release ready yet. 🚀
 
 
