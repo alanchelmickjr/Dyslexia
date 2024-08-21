@@ -1,17 +1,15 @@
 # Dyslexia | aixelsyD
 is software that re-orients lettering for people that see letters different, so they can read.
 
-This software uses Tesseract so you will need to install this locally on your server and/or local machine.
+T# Dyslexia Real-Time Text Reversal API
 
-Find out more about Tessaract here -> <a href="https://tesseract-ocr.github.io/tessapi/5.x/a02438.html#aca4e9a0d9cf388510168d9b58864d1e5">Tesseract GitHub</a>
+Welcome to the Dyslexia Real-Time Text Reversal API! This software is designed to help individuals with dyslexia read text more easily by reversing the letters in real-time. The API processes images of text, enhances them for better clarity, and uses Tesseract OCR to detect and reverse the text, making it more accessible for dyslexic readers.
 
 <img style="align:center;border-radius:13px;max-width:800px;width:600px;" src="tesseract.jpeg"/>
 
 Python 3.11 in use, for more into visit -> https://python.org
 
-T# Dyslexia Real-Time Text Reversal API
 
-Welcome to the Dyslexia Real-Time Text Reversal API! This software is designed to help individuals with dyslexia read text more easily by reversing the letters in real-time. The API processes images of text, enhances them for better clarity, and uses Tesseract OCR to detect and reverse the text, making it more accessible for dyslexic readers.
 
 ## Table of Contents
 - [Features](#features)
