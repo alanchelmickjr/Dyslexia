@@ -1,4 +1,4 @@
-# Dyslexia | aixelsyD  Real-Time Text Reversal API
+# Dyslexia | aixelsyD - Real-Time Text Reversal API
 is software that re-orients lettering for people that see letters different, so they can read.
 
 Welcome to the Dyslexia Real-Time Text Reversal API! This software is designed to help individuals with dyslexia read text more easily by reversing the letters in real-time. The API processes images of text, enhances them for better clarity, and uses Tesseract OCR to detect and reverse the text, making it more accessible for dyslexic readers.
